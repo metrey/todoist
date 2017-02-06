@@ -1,4 +1,6 @@
 
+# Requirement
+* ionic 1
 
 # What to do after download
 * Create new account in backend
