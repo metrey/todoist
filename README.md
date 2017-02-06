@@ -1,9 +1,16 @@
 
-- Create new account in backend
-  Use anonymouse key
-  Create backend application: todoify
-  Use pre-object of backend (items)
-  
+
+# What to do after download
+* Create new account in backend
+* Use anonymouse key
+* Create backend application: todoify
+* Use pre-object of backend (items)
+
+## Run to test
+
+`ionic serve`
+
+# Steps to create this project
 - Create backend starter project
 
 `ionic start todoify https://github.com/backand/backand-ionic-starter`
